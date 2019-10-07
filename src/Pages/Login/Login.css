@@ -1,0 +1,14 @@
+.Login {
+  width: 100%;
+  margin: 100px 16px;
+  box-shadow: 0 3px 4px #ccc;
+  padding: 16px;
+  align-items: center;
+}
+.boxHeader {
+  align-items: center;
+  background-color: "#ff6666";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
